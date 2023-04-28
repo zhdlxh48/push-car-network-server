@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushCarServer", "PushCarServer\PushCarServer.csproj", "{B3EF6227-0A39-4190-84C1-A543D40AE49B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushCarLib", "PushCarLib\PushCarLib.csproj", "{55E8A214-148B-4BBF-A48B-ACBE8ECD4549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3EF6227-0A39-4190-84C1-A543D40AE49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EF6227-0A39-4190-84C1-A543D40AE49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EF6227-0A39-4190-84C1-A543D40AE49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EF6227-0A39-4190-84C1-A543D40AE49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E8A214-148B-4BBF-A48B-ACBE8ECD4549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E8A214-148B-4BBF-A48B-ACBE8ECD4549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E8A214-148B-4BBF-A48B-ACBE8ECD4549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E8A214-148B-4BBF-A48B-ACBE8ECD4549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
